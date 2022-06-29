@@ -1,6 +1,6 @@
 ### Hi there 👋, Vamshi here.
 
-##### Just another kid crazy about tech. [Visit my little corner of the Internet](https://www.vamshidhar.online/).
+##### Just another kid crazy about tech. [Visit my little corner of the Internet](https://devamshi.github.io/me).
 
 - 🔭 I’m currently working on a laptop 😁
 - 🌱 I’m currently learning express.js :star_struck:
