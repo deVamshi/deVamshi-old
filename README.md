@@ -3,6 +3,7 @@
   - Place: Bangalore, India.
 
 #### 🔭 Skills:
+  - Java FullStack
   - ReactJS
   - Flutter
   - NodeJS
